@@ -110,7 +110,7 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 ---
 # Fund-raising
 
-* [Signal](https://signal.nfx.com/): The fundraising CRM for startup founders.
+* [Signal](https://signal.nfx.com/): fundraising CRM for startup founders.
 * [List of microgrants](https://github.com/nayafia/microgrants).
 
 ## Incubators and Accelerators
