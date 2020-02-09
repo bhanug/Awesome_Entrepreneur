@@ -195,24 +195,43 @@ Curated list of resources to learn Entrepreneurism.
 * [Georgian Partners](https://georgianpartners.com/).
 * [Newground](https://www.newground.vc/).
 * [Mig](https://www.mig.ag/en/).
+* [Pender](https://www.penderfund.com/).
+* [PSP](https://www.investpsp.com/en/).
 * [Oxford Science](https://www.oxfordsciencesinnovation.com/).
 * [Overkill](https://www.overkill.vc/).
-* [Pender](https://www.penderfund.com/).
-* [Invest PSP](https://www.investpsp.com/en/).
-* [Radical](https://radical.ventures/).
 * [OUP](https://oup.vc/).
+* [Radical](https://radical.ventures/).
 * [RTF](https://rtf.vc/).
 * [Real](https://realventures.com/).
-* [Sansug](https://samsungcatalyst.com/).
 * [RBS](https://www.rbs.com/).
 * [Seier](http://www.seiercapital.com/).
+* [Sansug](https://samsungcatalyst.com/).
 * [S28](https://www.s28capital.com/)
 * [Sequoia](https://www.sequoiacap.com/).
+* [Sierra](https://www.sierraventures.com/).
 * [Shasta](https://shastaventures.com/).
+* [DV](http://www.dv.co.th/).
+* [Quantum Valley](https://quantumvalleyinvestments.com/).
+* [RBVC](http://www.rbvc.com/).
+* [Social Capital](https://www.socialcapital.com/).
+* [Sparx](http://www.sparxgroup.com/).
+* [Susa](http://www.susaventures.com/).
+* [SHV](https://www.shv.com/).
+* [Quantonation](https://www.quantonation.com/).
+* [Space Angels](https://www.spaceangels.com/space-capital).
+* [SV](https://svangel.com/).
+* [SVB](https://www.svb.com/).
+* [Octopus](https://octopusventures.com/).
+* [Sginnovate](https://www.sginnovate.com/).
+* [Engine](https://www.engine.xyz/).
+* [Tesi](http://www.industryinvestment.com/).
+* [Streamlined](http://streamlinedventures.com/).
+* [Propagator](https://propagator.vc/).
+* [Casa Verde](https://www.casaverdecapital.com/).
+* [Tao](http://www.taocap.com/).
 
 
-
-## Writing a Deck
+## Pitching Decks
 
 * [How to write a killer deck and get funded](https://vator.tv/news/2010-12-14-how-to-write-a-killer-deck-and-get-funded).
 
