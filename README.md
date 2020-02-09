@@ -17,10 +17,12 @@ Curated list of resources to learn Entrepreneurism.
 
 ## Tools for Teams
 
+* [GSuite](https://gsuite.google.com/).
 * [Notion](notion.so).
+* [Trello](https://trello.com/).
 
 
-## Tools for Marketing
+## Tools for Marketing and Sales
 
 ### Articles
 
@@ -28,10 +30,16 @@ Curated list of resources to learn Entrepreneurism.
 
 ### SEO Tools
 
+* [Google Trends](https://trends.google.com/trends/).
 * [Buzzsumo](https://buzzsumo.com/)
 * [Google KeywodPlanner](https://ads.google.com/aw/keywordplanner).
 * [Wordtracker](https://www.wordtracker.com/).
 * [Redditlist](http://redditlist.com/).
+
+### CRM and Customer Data Tools
+
+* [Mailchimp](mailchimp.com).
+* [Segment](https://segment.com/).
 
 
 ## Tools for Design and Website building
@@ -45,6 +53,10 @@ Curated list of resources to learn Entrepreneurism.
 
 ### Stock Photos
 
+* [Public Domain Pictures](https://www.publicdomainpictures.net/en/).
+* [Pixabay](https://pixabay.com/).
+* [Little Visuals](https://littlevisuals.co/).
+* [Isorepublic](https://isorepublic.com/).
 * [Bucketlistly](https://www.bucketlistly.blog/photos).
 * [Cupcake](http://cupcake.nilssonlee.se/).
 * [Unsplash](https://unsplash.com/).
@@ -55,14 +67,24 @@ Curated list of resources to learn Entrepreneurism.
 * [Food images](https://www.foodiesfeed.com/).
 * [Pic Jumbo](https://picjumbo.com/).
 * [Designer Pics](http://www.designerspics.com/).
+* [Mazwai](https://mazwai.com/).
 * [Foca](https://focastock.com/).
 * [Free Images](https://www.freeimages.com/).
 * [Stock Snap](https://stocksnap.io/).
 * [Kaboom Pics](https://kaboompics.com/).
+* [Picrographyt](https://picography.co/).
+* [Free Nature Stock](https://freenaturestock.com/).
+* [Morguefile](https://morguefile.com/photos/morguefile/1/pop).
+* [Stock Vault](https://www.stockvault.net/).
+* [Refe](http://getrefe.com/downloads/category/free/).
+* [Free Range](https://freerangestock.com/).
+* [Imagefree](https://www.imagefree.com/).
 
 
 ### Editing Pictures
 
+* [Clipping Magic](https://clippingmagic.com/): magically remove backgrounds from pictures.
+* [TinyPNG](https://tinypng.com/): smart image compression.
 * [Find HTML color code form an image](https://html-color-codes.info/colors-from-image/).
 
 
@@ -98,6 +120,15 @@ Curated list of resources to learn Entrepreneurism.
 
 * [Documenting Architeture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
 * [A list of Curated Manager Readmes](https://svnk.github.io/manager-READMEs/).
+* [Looking at the life of the CTO through the stages](https://medium.com/cto-craft/looking-at-the-life-of-the-cto-through-the-stages-859ad5925374).
+* [Becoming the Leader you need](http://leadingsnowflakes.com/).
 
+
+### On Monitoring and Security
+
+* [The SaaS CTO Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist).
+* [Observability and Monitoring Best Practices](https://www.integralist.co.uk/posts/monitoring-best-practices/).
+* [Grafana's article on logs and metrics and graphs](https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/).
+* [Monitoring: Not Just For Outages](https://www.robustperception.io/monitoring-not-just-for-outages).
 
 
