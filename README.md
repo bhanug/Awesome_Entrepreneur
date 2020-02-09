@@ -102,17 +102,54 @@ Curated list of resources to learn Entrepreneurism.
 * [Signal](https://signal.nfx.com/): The fundraising CRM for startup founders.
 * [List of microgrants](https://github.com/nayafia/microgrants).
 
-## Incubators
+## Incubators and Accelerators
 
 * [Ycombinator](https://www.ycombinator.com/).
 * [Entrepreneur First](https://www.joinef.com/).
 * [Boost VC](https://www.boost.vc/).
 * [XX](https://xx.team/sf).
 * [TechStars](https://www.techstars.com/apply/).
+* [Tandem Launch](https://www.tandemlaunch.com/en/startup-program/).
+* [Alchemist](https://alchemistaccelerator.com/).
 
 
 
-## VCs
+## Angels and VCs
+
+* [Bonfire](https://www.bonfirevc.com/).
+* [Abies](https://abies.vc/).
+* [Ahren](http://www.ahreninnovationcapital.com/).
+* [Ame Cloud](http://www.amecloudventures.com/).
+* [Amplify Partners](https://amplifypartners.com/).
+* [Airbus](https://airbusventures.vc/).
+* [180 Degree](http://www.180degreecapital.com/).
+* [415](https://415capital.com/).
+* [Saphire](https://en.wikipedia.org/wiki/Sapphire_Ventures).
+* [Republic.co](https://republic.co/).
+* [8vc](https://8vc.com/#email-signup).
+* [1517fund](https://www.1517fund.com/).
+* [Basf](https://www.basf.com/global/en/who-we-are/organization/locations/europe/german-companies/BASF_Venture-Capital.html).
+* [Battery](https://www.battery.com/).
+* [BoxGroups](http://boxgroup.com/).
+* [Bloomberg](https://github.com/Bloomberg-Beta/Manual).
+* [Cantos](http://cantos.vc/#Company).
+* [Citigroup](https://www.citigroup.com/citi/).
+* [AI Seed](https://aiseed.vc/).
+* [Civilization](https://civilizationventures.com/).
+* [CME](https://www.cmegroup.com/cme-ventures.html).
+* [Bezos Expeditions](http://www.bezosexpeditions.com/).
+* [Creative](http://www.creativeventures.vc/).
+* [Comcast](https://comcastventures.com/).
+* [BTOV](https://btov.vc/industrial-technologies/).
+* [CIC](https://www.cic.vc/).
+* [DC](https://www.dcvc.com/).
+* [Crosslink](https://www.crosslinkcapital.com/).
+* [Correlation](https://correlationvc.com/portfolio).
+* [BatShitCrazy](https://www.batshitcrazy.is/).
+* [Cota](https://www.cotacapital.com/).
+* [Ecliptic](https://ecliptic.capital/).
+* [Fenox](https://www.fenoxvc.com/).
+
 
 ## Writing a Deck
 
