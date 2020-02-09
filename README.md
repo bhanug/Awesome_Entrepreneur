@@ -199,6 +199,16 @@ Curated list of resources to learn Entrepreneurism.
 * [Overkill](https://www.overkill.vc/).
 * [Pender](https://www.penderfund.com/).
 * [Invest PSP](https://www.investpsp.com/en/).
+* [Radical](https://radical.ventures/).
+* [OUP](https://oup.vc/).
+* [RTF](https://rtf.vc/).
+* [Real](https://realventures.com/).
+* [Sansug](https://samsungcatalyst.com/).
+* [RBS](https://www.rbs.com/).
+* [Seier](http://www.seiercapital.com/).
+* [S28](https://www.s28capital.com/)
+* [Sequoia](https://www.sequoiacap.com/).
+* [Shasta](https://shastaventures.com/).
 
 
 
