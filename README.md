@@ -85,7 +85,7 @@ Curated list of resources to learn Entrepreneurism.
 
 ---
 
-# Being a Sucessful 
+# Being a Sucessful...
 
 ## CEO
 
