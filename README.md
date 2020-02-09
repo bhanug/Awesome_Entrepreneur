@@ -56,6 +56,9 @@ Curated list of resources to learn Entrepreneurism.
 * [Pic Jumbo](https://picjumbo.com/).
 * [Designer Pics](http://www.designerspics.com/).
 * [Foca](https://focastock.com/).
+* [Free Images](https://www.freeimages.com/).
+* [Stock Snap](https://stocksnap.io/).
+* [Kaboom Pics](https://kaboompics.com/).
 
 
 ### Editing Pictures
@@ -89,10 +92,12 @@ Curated list of resources to learn Entrepreneurism.
 
 ## CEO
 
+* [Gitlab CEO Manifest](https://about.gitlab.com/handbook/ceo/).
 
 ## CTO
 
 * [Documenting Architeture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+* [A list of Curated Manager Readmes](https://svnk.github.io/manager-READMEs/).
 
 
 
