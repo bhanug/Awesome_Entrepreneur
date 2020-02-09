@@ -38,6 +38,14 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [Google KeywodPlanner](https://ads.google.com/aw/keywordplanner).
 * [Wordtracker](https://www.wordtracker.com/).
 * [Redditlist](http://redditlist.com/).
+* [Keyworda Everywhere](https://keywordseverywhere.com/).
+* [SEMRush](https://www.semrush.com/).
+* [Keyword Tool](https://keywordtool.io/).
+* [Soovle](https://soovle.com/).
+* [Ahrefs Keyword Explorer](https://ahrefs.com/keywords-explorer).
+* [Keyword Snatcher](https://keywordsnatcher.com/).
+* [KWFinder](https://kwfinder.com/).
+* [KTD](https://www.keywordtooldominator.com/).
 
 ### CRM and Customer Data Tools
 
