@@ -5,10 +5,15 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 
 # Having an Idea
 
-## Articles about Startup Ideas
+## Articles about how to start
 
+* [Sam Altman's Startup Playbook](https://playbook.samaltman.com/).
 * [Why Smart People Have Bad Ideas](http://paulgraham.com/bronze.html).
 * [Ideas for Startups](http://paulgraham.com/ideas.html).
+* [The Hardest Lessons for Startups](http://paulgraham.com/startuplessons.html).
+* [Do Things that Don't Scale](http://paulgraham.com/ds.html).
+* [ArsDigita: From Start-Up to Bust-Up](https://random.waxy.org/arsdigita/).
+
 
 
 
@@ -103,6 +108,7 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 
 ### Copy and Documents
 
+* [The Cult of NDA](http://www.frozennorth.org/C509291565/E1939404619/index.html).
 * [Privacy Policy generator](https://www.termsfeed.com/privacy-policy-generator).
 * [Terms of Service Generator](https://www.termsfeed.com/terms-service-generator/).
 
@@ -112,6 +118,7 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 
 * [Signal](https://signal.nfx.com/): fundraising CRM for startup founders.
 * [List of microgrants](https://github.com/nayafia/microgrants).
+* [A Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html).
 
 ## Incubators and Accelerators
 
@@ -293,8 +300,16 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 
 ### How to Pitch
 
-
+* [How to Present to Investors](http://paulgraham.com/investors.html).
+* [The Hacker Guide to Investors](http://paulgraham.com/guidetoinvestors.html).
 * [Ycombinator: Meeting with investors](https://blog.ycombinator.com/aaron-harris-on-fundraising-and-meeting-with-investors/).
+
+
+### Equitities, Valuation, Financing
+
+* [The Equity Equation](http://paulgraham.com/equity.html).
+* [On Valuation](https://avc.com/2004/07/valuation/).
+* [Safe Financing Documents](https://www.ycombinator.com/documents/#safe).
 
 ---
 
