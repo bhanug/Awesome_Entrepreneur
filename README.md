@@ -1,4 +1,4 @@
-# Awesome Entrepreneur
+# Awesome Entrepreneur [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/bt3gl/Awesome_Entrepreneur)
 
 Curated list of resources to learn Entrepreneurism. 
 
@@ -22,8 +22,45 @@ Curated list of resources to learn Entrepreneurism.
 
 ## Tools for Marketing
 
+### Articles
+
+* [Learn SEO in 2020](https://medium.com/python-for-the-utopian/seo-from-zero-to-hero-529e6b9909cb).
+
+### SEO Tools
+
+* [Buzzsumo](https://buzzsumo.com/)
+* [Google KeywodPlanner](https://ads.google.com/aw/keywordplanner).
+* [Wordtracker](https://www.wordtracker.com/).
+* [Redditlist](http://redditlist.com/).
+
 
 ## Tools for Design and Website building
+
+### Resources to build a Website
+
+* [Hugo](https://gohugo.io/).
+* [Reaction Commerce](https://reactioncommerce.com).
+* [Shopify](https://shopify.com).
+
+
+### Stock Photos
+
+* [Bucketlistly](https://www.bucketlistly.blog/photos).
+* [Cupcake](http://cupcake.nilssonlee.se/).
+* [Unsplash](https://unsplash.com/).
+* [I am creator](http://imcreator.com/free).
+* [Free Photos](https://wefunction.com/category/free-photos/).
+* [RGB Stock](https://www.rgbstock.com/).
+* [Free Digital photos](http://www.freedigitalphotos.net/).
+* [Food images](https://www.foodiesfeed.com/).
+* [Pic Jumbo](https://picjumbo.com/).
+* [Designer Pics](http://www.designerspics.com/).
+* [Foca](https://focastock.com/).
+
+
+### Editing Pictures
+
+* [Find HTML color code form an image](https://html-color-codes.info/colors-from-image/).
 
 
 
@@ -33,9 +70,10 @@ Curated list of resources to learn Entrepreneurism.
 
 ## Incubators
 
-* [Ycombinator]().
+* [Ycombinator](https://www.ycombinator.com/).
 * [Entrepreneur First](https://www.joinef.com/).
 * [Boost VC](https://www.boost.vc/).
+* [Life of Pix](https://www.lifeofpix.com/).
 
 
 ## VCs
@@ -47,9 +85,14 @@ Curated list of resources to learn Entrepreneurism.
 
 ---
 
-# Being a Sucessful CEO
+# Being a Sucessful 
+
+## CEO
 
 
----
+## CTO
 
-# Being a Sucessful CTO
+* [Documenting Architeture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+
+
+
