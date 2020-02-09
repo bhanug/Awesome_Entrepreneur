@@ -317,3 +317,8 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [Monitoring: Not Just For Outages](https://www.robustperception.io/monitoring-not-just-for-outages).
 
 
+
+
+----
+
+<a href="https://www.buymeacoffee.com/miavonpizza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-pink.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
