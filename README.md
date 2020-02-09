@@ -149,22 +149,26 @@ Curated list of resources to learn Entrepreneurism.
 * [Cota](https://www.cotacapital.com/).
 * [Ecliptic](https://ecliptic.capital/).
 * [Fenox](https://www.fenoxvc.com/).
+* [Canaan](https://www.canaan.com/).
 
 
 ## Writing a Deck
 
 * [How to write a killer deck and get funded](https://vator.tv/news/2010-12-14-how-to-write-a-killer-deck-and-get-funded).
 
-
 ---
 
-# Being a Sucessful...
+# Running a Startup
 
-## CEO
+## Not dying
+
+* [How to Not Fail](https://blog.ycombinator.com/how-not-to-fail/)
+
+## Being a CEO
 
 * [Gitlab CEO Manifest](https://about.gitlab.com/handbook/ceo/).
 
-## CTO
+## Being CTO
 
 * [Documenting Architeture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
 * [A list of Curated Manager Readmes](https://svnk.github.io/manager-READMEs/).
