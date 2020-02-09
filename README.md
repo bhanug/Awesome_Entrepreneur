@@ -8,6 +8,7 @@ Curated list of resources to learn Entrepreneurism.
 ## Articles about Startup Ideas
 
 * [Why Smart People Have Bad Ideas](http://paulgraham.com/bronze.html).
+* [Ideas for Startups](http://paulgraham.com/ideas.html).
 
 
 
@@ -150,6 +151,55 @@ Curated list of resources to learn Entrepreneurism.
 * [Ecliptic](https://ecliptic.capital/).
 * [Fenox](https://www.fenoxvc.com/).
 * [Canaan](https://www.canaan.com/).
+* [Amadeus](https://www.amadeuscapital.com/).
+* [Firebold](http://www.fireboltventures.com/).
+* [DFJ](https://www.dfj.com/).
+* [Deshaw](https://www.deshaw.com/).
+* [BDC](https://www.bdc.ca/en/pages/home.aspx).
+* [a16z](https://a16z.com/).
+* [Fifty](https://www.fifty.vc/).
+* [Dymonasia](https://www.dymonasia.com/).
+* [Eniac](http://www.eniac.vc/).
+* [Sinai](https://sinaivc.com/).
+* [GPV](https://www.gpv.com/).
+* [Fluxus](https://www.fluxusventures.com/).
+* [Georgia](https://georgianpartners.com/portfolio/).
+* [Fidelity](https://www.fidelity.com/).
+* [Growth Works](http://www.growthworks.ca/).
+* [Fitzgate](https://www.fitzgate.com/).
+* [HP](https://www.hewlettpackardpathfinder.com/).
+* [Horizon](https://www.horizonsventures.com/news/).
+* [KEC](http://www.kecventures.com/).
+* [Founders Fund](https://foundersfund.com/).
+* [IQ Capital](https://iqcapital.vc/).
+* [KCPL](https://www.kcpl.ca/).
+* [Liquid](http://liquid2.vc/).
+* [IP Group](https://www.ipgroupplc.com/).
+* [Kindred](http://www.kindredcapital.vc/).
+* [IQT](https://www.iqt.org/).
+* [LSVP](https://lsvp.com/).
+* [LUX](https://www.luxcapital.com/).
+* [LCIF](https://lcif.co/).
+* [MSEQ](https://mseq.vc/).
+* [Maverick](https://www.maverickventures.com/).
+* [Mantaray](https://mantaray.vc/).
+* [Marlet](https://www.martletcap.com/).
+* [Morado](http://www.moradoventures.com/).
+* [Apex](https://www.apex.ventures/).
+* [Maki](https://www.maki.vc/).
+* [Anri](https://anri.vc/).
+* [Inovia](https://www.inovia.vc/).
+* [Mubadala](https://www.mubadala.com/en/what-we-do/capital).
+* [Balderton](https://www.balderton.com/).
+* [Industrial](https://www.industrialinnovators.eu/).
+* [Georgian Partners](https://georgianpartners.com/).
+* [Newground](https://www.newground.vc/).
+* [Mig](https://www.mig.ag/en/).
+* [Oxford Science](https://www.oxfordsciencesinnovation.com/).
+* [Overkill](https://www.overkill.vc/).
+* [Pender](https://www.penderfund.com/).
+* [Invest PSP](https://www.investpsp.com/en/).
+
 
 
 ## Writing a Deck
