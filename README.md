@@ -35,6 +35,7 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 ### Articles
 
 * [Learn SEO in 2020](https://medium.com/python-for-the-utopian/seo-from-zero-to-hero-529e6b9909cb).
+* [We Wasted $50K on Google Ads So You Don't Have To](https://www.indiehackers.com/article/we-wasted-50k-on-google-ads-so-you-dont-have-to-355a425b27).
 
 
 ### Marketing Tools
