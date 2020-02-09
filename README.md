@@ -40,6 +40,7 @@ Curated list of resources to learn Entrepreneurism.
 
 * [Mailchimp](mailchimp.com).
 * [Segment](https://segment.com/).
+* [Zendesk Customer Support](https://www.zendesk.com/product/pricing/).
 
 
 ## Tools for Design and Website building
@@ -79,6 +80,7 @@ Curated list of resources to learn Entrepreneurism.
 * [Refe](http://getrefe.com/downloads/category/free/).
 * [Free Range](https://freerangestock.com/).
 * [Imagefree](https://www.imagefree.com/).
+* [Life of Pix](https://www.lifeofpix.com/).
 
 
 ### Editing Pictures
@@ -88,17 +90,26 @@ Curated list of resources to learn Entrepreneurism.
 * [Find HTML color code form an image](https://html-color-codes.info/colors-from-image/).
 
 
+### Copy and Documents
+
+* [Privacy Policy generator](https://www.termsfeed.com/privacy-policy-generator).
+* [Terms of Service Generator](https://www.termsfeed.com/terms-service-generator/).
 
 
 ---
 # Fund-raising
+
+* [Signal](https://signal.nfx.com/): The fundraising CRM for startup founders.
+* [List of microgrants](https://github.com/nayafia/microgrants).
 
 ## Incubators
 
 * [Ycombinator](https://www.ycombinator.com/).
 * [Entrepreneur First](https://www.joinef.com/).
 * [Boost VC](https://www.boost.vc/).
-* [Life of Pix](https://www.lifeofpix.com/).
+* [XX](https://xx.team/sf).
+* [TechStars](https://www.techstars.com/apply/).
+
 
 
 ## VCs
