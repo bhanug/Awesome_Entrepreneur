@@ -18,9 +18,11 @@ Curated list of resources to learn Entrepreneurism.
 
 ## Tools for Teams
 
+* [Startup deals](https://startup.deals/).
 * [GSuite](https://gsuite.google.com/).
 * [Notion](notion.so).
 * [Trello](https://trello.com/).
+* [Gusto](https://gusto.com/).
 
 
 ## Tools for Marketing and Sales
@@ -117,6 +119,10 @@ Curated list of resources to learn Entrepreneurism.
 
 ## Angels and VCs
 
+* [Acme](https://www.acme.vc/).
+* [Harlen](https://harlem.capital/about).
+* [Atomic](https://www.atomico.com/).
+* [Gust](https://gust.com/).
 * [Bonfire](https://www.bonfirevc.com/).
 * [Abies](https://abies.vc/).
 * [Ahren](http://www.ahreninnovationcapital.com/).
@@ -229,11 +235,58 @@ Curated list of resources to learn Entrepreneurism.
 * [Propagator](https://propagator.vc/).
 * [Casa Verde](https://www.casaverdecapital.com/).
 * [Tao](http://www.taocap.com/).
+* [TLV](https://www.tlv.partners/).
+* [Vaned](https://www.vanedgecapital.com/).
+* [Stanhill](http://www.stanhillcapital.com/).
+* [UVC](https://www.uvcpartners.com/).
+* [Phystech](http://phystechventures.com/).
+* [Open Ocean](https://openocean.vc/).
+* [Pentech](https://pentech.vc/).
+* [Prelude](https://www.preludeventures.com/).
+* [World Quant](https://worldquantventures.com/).
+* [Vitp](http://vito.vc/).
+* [Western Tech](http://westerntech.com/).
+* [UCLTF](https://www.ucltf.co.uk/).
+* [Omers](https://www.omersventures.com/).
+* [Nea](https://www.nea.com/).
+* [Tribeca](https://tribecavp.com/).
+* [VenRock](https://www.venrock.com/).
+* [Flybridge](http://www.flybridge.com/).
+* [Felicis](https://www.felicis.com/).
+* [AI Capital](http://aicapital.ai/).
+* [Gron](https://www.gron.vc/).
+* [Pillar](https://www.pillar.vc/).
+* [Halogen](https://halogenvc.com/).
+* [Crosscut](https://www.crosscut.vc/).
+* [Pitango](https://www.pitango.com/).
+* [Anubix](https://ventures.anubix.com/).
+* [General Catalyst](https://www.generalcatalyst.com/).
+* [37 Angels](http://www.37angels.com/).
+* [All Raise](https://www.allraise.org/).
+* [Thirtyfive](https://thirtyfiveventures.com/).
+* [BBG ventures](https://www.bbgventures.com/portfolio/).
 
 
-## Pitching Decks
+### Specific Capital
+
+* [Quantum Computing capital](https://quantumcomputingreport.com/players/venture-capital/).
+* [Female founders](https://www.gv.com/portfolio/).
+* [Open Source Capital](https://oss.capital/).
+
+
+
+
+## Pitching 
+
+### Writing Decks
 
 * [How to write a killer deck and get funded](https://vator.tv/news/2010-12-14-how-to-write-a-killer-deck-and-get-funded).
+
+
+### How to Pitch
+
+
+* [Ycombinator: Meeting with investors](https://blog.ycombinator.com/aaron-harris-on-fundraising-and-meeting-with-investors/).
 
 ---
 
@@ -241,7 +294,8 @@ Curated list of resources to learn Entrepreneurism.
 
 ## Not dying
 
-* [How to Not Fail](https://blog.ycombinator.com/how-not-to-fail/)
+* [How to Not Fail](https://blog.ycombinator.com/how-not-to-fail/).
+* [How to raise money and How to succeed in the long term](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY).
 
 ## Being a CEO
 
