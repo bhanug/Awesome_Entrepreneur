@@ -36,6 +36,12 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 
 * [Learn SEO in 2020](https://medium.com/python-for-the-utopian/seo-from-zero-to-hero-529e6b9909cb).
 
+
+### Marketing Tools
+
+* [Gleam](https://gleam.io/examples): business growth platform.
+* [Short Stack](https://www.shortstack.com/): growth with contests.
+
 ### SEO Tools
 
 * [Google Trends](https://trends.google.com/trends/).
@@ -57,6 +63,7 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [Mailchimp](mailchimp.com).
 * [Segment](https://segment.com/).
 * [Zendesk Customer Support](https://www.zendesk.com/product/pricing/).
+
 
 
 ## Tools for Design and Website building
