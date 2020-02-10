@@ -328,6 +328,9 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [How to Not Fail](https://blog.ycombinator.com/how-not-to-fail/).
 * [How to raise money and How to succeed in the long term](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY).
 
+## Hiring
+* [40 Favorite Interview questions from some of the sharpest folks we know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/).
+
 ## Being a CEO
 
 * [Gitlab CEO Manifest](https://about.gitlab.com/handbook/ceo/).
