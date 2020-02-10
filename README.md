@@ -331,6 +331,7 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 ## Being a CEO
 
 * [Gitlab CEO Manifest](https://about.gitlab.com/handbook/ceo/).
+* [How A CEO can Effectively Build a Sustainable Company](https://blog.getguru.com/how-a-ceo-can-effectively-build-a-sustainable-company-culture).
 
 ## Being CTO
 
