@@ -332,6 +332,10 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 
 * [Places to post your startup](https://project-awesome.org/mmccaff/PlacesToPostYourStartup).
 
+# OKR
+
+* [Awesome List on ORK](https://project-awesome.org/domenicosolazzo/awesome-okr).
+
 ## Hiring
 * [40 Favorite Interview questions from some of the sharpest folks we know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/).
 
