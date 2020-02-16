@@ -114,6 +114,9 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [TinyPNG](https://tinypng.com/): smart image compression.
 * [Find HTML color code form an image](https://html-color-codes.info/colors-from-image/).
 
+### Creating Logos
+
+* [Hatchful](https://hatchful.shopify.com/).
 
 ### Copy and Documents
 
@@ -121,6 +124,10 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [Privacy Policy generator](https://www.termsfeed.com/privacy-policy-generator).
 * [Terms of Service Generator](https://www.termsfeed.com/terms-service-generator/).
 
+
+### Deplopying
+
+* [Zeit.co](https://zeit.co/).
 
 ---
 # Fund-raising
