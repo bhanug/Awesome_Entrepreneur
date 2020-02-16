@@ -2,6 +2,7 @@
 
 Curated list of resources to learn Entrepreneurism. See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/master/contributing.md).
 
+----------
 
 # Having an Idea
 
@@ -328,13 +329,15 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [How to Not Fail](https://blog.ycombinator.com/how-not-to-fail/).
 * [How to raise money and How to succeed in the long term](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY).
 
+## OKR
+
+* [Awesome List on ORK](https://project-awesome.org/domenicosolazzo/awesome-okr).
+
 ## Outreaching
 
 * [Places to post your startup](https://project-awesome.org/mmccaff/PlacesToPostYourStartup).
 
-# OKR
 
-* [Awesome List on ORK](https://project-awesome.org/domenicosolazzo/awesome-okr).
 
 ## Hiring
 
@@ -349,7 +352,7 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [Gitlab CEO Manifest](https://about.gitlab.com/handbook/ceo/).
 * [How A CEO can Effectively Build a Sustainable Company](https://blog.getguru.com/how-a-ceo-can-effectively-build-a-sustainable-company-culture).
 
-## Being CTO
+## Being a CTO
 
 * [Documenting Architeture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
 * [A list of Curated Manager Readmes](https://svnk.github.io/manager-READMEs/).
