@@ -321,11 +321,13 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [Ycombinator: Meeting with investors](https://blog.ycombinator.com/aaron-harris-on-fundraising-and-meeting-with-investors/).
 
 
-### Equitities, Valuation, Financing
+### Equitities, Valuation, Finances
 
 * [The Equity Equation](http://paulgraham.com/equity.html).
 * [On Valuation](https://avc.com/2004/07/valuation/).
 * [Safe Financing Documents](https://www.ycombinator.com/documents/#safe).
+* [Managing Startups Finances](https://www.startupschool.org/videos/70).
+* [Modern Startup Funding](https://www.startupschool.org/videos/79).
 
 ---
 
