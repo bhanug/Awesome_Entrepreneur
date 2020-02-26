@@ -132,6 +132,7 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 ---
 # Fund-raising
 
+* [Y Combinator Serie A Guide](https://www.ycombinator.com/resources/series-a-guide).
 * [Signal](https://signal.nfx.com/): fundraising CRM for startup founders.
 * [List of microgrants](https://github.com/nayafia/microgrants).
 * [A Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html).
