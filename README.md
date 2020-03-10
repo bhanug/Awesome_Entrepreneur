@@ -59,6 +59,7 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [Keyword Snatcher](https://keywordsnatcher.com/).
 * [KWFinder](https://kwfinder.com/).
 * [KTD](https://www.keywordtooldominator.com/).
+* [Lots of resources here](https://medium.com/python-for-the-utopian/seo-from-zero-to-hero-529e6b9909cb).
 
 ### CRM and Customer Data Tools
 
