@@ -2,6 +2,8 @@
 
 Curated list of resources to learn Entrepreneurism. See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/master/contributing.md).
 
+![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)
+
 ----------
 
 # Having an Idea
