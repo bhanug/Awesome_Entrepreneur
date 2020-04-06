@@ -70,6 +70,10 @@ Curated list of resources to learn Entrepreneurism. See how to contribute [here]
 * [Zendesk Customer Support](https://www.zendesk.com/product/pricing/).
 
 
+### Competitors
+
+* [Tools to learn about your competition.](https://www.abetterlemonadestand.com/spy-on-your-online-competition-like-james-bond-007/).
+
 
 ## Tools for Design and Website building
 
